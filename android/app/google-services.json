@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "312379301792",
+    "firebase_url": "https://smsauthdemo-78055.firebaseio.com",
+    "project_id": "smsauthdemo-78055",
+    "storage_bucket": "smsauthdemo-78055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312379301792:android:229b73ff2d3af667f74ec5",
+        "android_client_info": {
+          "package_name": "aadesh.smsauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312379301792-sr9k2on81b886s426cuhravr570adabj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkK3OoGkCggLPIWymxn_img7jPEo4yA80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312379301792-sr9k2on81b886s426cuhravr570adabj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
